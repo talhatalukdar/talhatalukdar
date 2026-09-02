@@ -1,26 +1,27 @@
+
 <div align="center">
-<h2 align="center">
-  Hi, I'm <span style="color:#5EEAD4;">Talha Talukdar</span> 👋
-</h2>
 
-<p align="center">
-  <i>Computer Science Student · Software Engineering · Full-Stack Development</i>
-</p>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 <img src="./header.svg" width="100%" alt="Talha Talukdar banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
+### Hi, I'm
+
+# **TALHA TALUKDAR**
+
+*Software Engineering Student · Full-Stack Developer · ML/NLP Researcher*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhatalukdar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-talukdar-070193291)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha76551@gmail.com)
+
+</div>
 ![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4)
 
 </div>
