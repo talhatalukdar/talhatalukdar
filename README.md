@@ -160,6 +160,25 @@ The proposed system focuses on affordable precision agriculture and efficient wa
 
 ## Selected Academic Projects
 
+### InternHub — Internship & Job Application Tracker
+
+React · TypeScript · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · JWT
+
+A full-stack web application designed to help students and job seekers organize, manage, and track their internship and job applications throughout the hiring process.
+
+Secure user authentication using JWT
+Full CRUD functionality for internship and job applications
+Dashboard with application statistics and visual analytics
+Search, filtering, and sorting by company, role, status, and job type
+Responsive interface for desktop and mobile devices
+RESTful API built with Node.js and Express.js
+MongoDB database integration using Mongoose
+Deployed frontend, backend, and database using Vercel, Render, and MongoDB Atlas
+
+🌐 Live Demo: https://internhub-b0n3cva81-talha-development.vercel.app/
+
+💻 GitHub Repository: https://github.com/talhatalukdar/internhub
+
 ### Greedy Knights
 *C# · Windows Forms · Object-Oriented Programming*
 
