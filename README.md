@@ -3,17 +3,13 @@
 
 <img src="./header.svg" width="100%" alt="Talha Talukdar banner"/>
 
-<br/>
+<br/><br/>
 
-### Hi, I'm
+<sub>Hi, I'm</sub>
 
-# **TALHA TALUKDAR**
+<h1><strong>TALHA TALUKDAR</strong></h1>
 
-*Software Engineering Student · Full-Stack Developer · ML/NLP Researcher*
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -21,12 +17,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-talukdar-070193291)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha76551@gmail.com)
 
-</div>
+<br/>
+
 ![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4)
 
 </div>
 
 <br/>
+```
+
 
 ## About Me
 
