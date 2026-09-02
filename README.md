@@ -1,236 +1,345 @@
-<div align="center">
+<!-- ===================== HEADER BANNER ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,45:111827,75:312e81,100:4f46e5&height=260&section=header&text=Talha%20Talukdar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=18&descColor=c7d2fe&animation=fadeIn"/>
+<p align="center">
+  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="50%" stop-color="#1e293b"/>
+        <stop offset="100%" stop-color="#312e81"/>
+      </linearGradient>
+    </defs>
 
-<h2>Computer Science Student @ AIUB</h2>
+    <rect width="1200" height="180" fill="url(#bg)" rx="18"/>
 
-<p>
-Software Engineering • Full-Stack Development • Database Systems • Machine Learning
+    <circle cx="100" cy="40" r="2" fill="white"/>
+    <circle cx="220" cy="125" r="2" fill="white"/>
+    <circle cx="980" cy="45" r="2" fill="white"/>
+    <circle cx="1080" cy="120" r="2" fill="white"/>
+    <circle cx="760" cy="25" r="1.5" fill="white"/>
+    <circle cx="450" cy="150" r="1.5" fill="white"/>
+
+    <text
+      x="600"
+      y="78"
+      text-anchor="middle"
+      fill="white"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="42"
+      font-weight="700">
+      TALHA TALUKDAR
+    </text>
+
+    <text
+      x="600"
+      y="115"
+      text-anchor="middle"
+      fill="#cbd5e1"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="18">
+      Software Engineering • Full-Stack Development • AI &amp; ML
+    </text>
+
+    <text
+      x="600"
+      y="145"
+      text-anchor="middle"
+      fill="#94a3b8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="14">
+      Build • Learn • Research • Improve
+    </text>
+  </svg>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+React+%7C+Next.js+%7C+Node.js;Building+Real-World+Software+Projects;Exploring+Machine+Learning+%26+AI;Learning+Cloud+%26+DevOps;Always+Learning+%26+Building" />
+<!-- ===================== INTRO ===================== -->
 
-<br><br>
+<h1 align="center">Hi 👋, I'm Talha Talukdar</h1>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <b>Computer Science Student @ American International University-Bangladesh (AIUB)</b>
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  Software Engineering • Full-Stack Development • AI/ML
+</p>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-2563EB?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=4f46e5"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/talhatalukdar">
+    <img src="https://img.shields.io/badge/GitHub-t alhatalukdar?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/talha-talukdar-070193291">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Talukdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:talha76551@gmail.com">
+    <img src="https://img.shields.io/badge/Email-talha76551%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a Computer Science student at **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering** with a minor focus in **Advanced Database Management and Machine Learning**.
+I'm a Computer Science student at **American International University-Bangladesh (AIUB)** with a major focus on **Software Engineering** and additional academic focus in **Advanced Database Management and Machine Learning**.
 
-My primary focus is **Full-Stack Development**, where I enjoy designing and building modern web applications using the MERN ecosystem and related technologies. Alongside development, I have a strong academic interest in **database engineering, machine learning, multimodal AI, and software engineering practices**.
+My primary interest is building practical software systems, especially **full-stack web applications, backend services, database-driven systems, and AI/ML solutions**.
 
-I enjoy turning ideas into functional software, learning new technologies through hands-on projects, and continuously improving my problem-solving and engineering skills.
+I enjoy turning ideas into working products, learning modern technologies, and applying software engineering concepts to real-world problems.
 
----
-
-# 🚀 Current Focus
-
-* 🔭 Building and improving **Full-Stack Web Applications**
-* 🌱 Exploring **Next.js, TypeScript, Docker, Cloud & DevOps**
-* 🧠 Strengthening fundamentals in **Machine Learning & AI**
-* 🗄️ Improving knowledge of **Database Design, SQL & Backend Systems**
-* 🧩 Practicing **Software Engineering, Problem Solving & System Design**
-* 🔬 Working on **academic ML/AI research projects**
-* 💡 Exploring how AI can be integrated into practical software systems
+- 🎓 Computer Science Student at AIUB
+- 💻 Focused on Software Engineering & Full-Stack Development
+- 🌐 Working with React, Next.js, Node.js & TypeScript
+- 🗄️ Interested in Database Engineering & Backend Development
+- 🤖 Exploring Machine Learning, Multimodal AI & Explainable AI
+- 🔬 Working on academic research in AI/ML
+- 🚀 Currently improving my development, system design and deployment skills
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,cs,javascript,typescript" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,js,ts" />
 </p>
 
 ### 🎨 Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-003B57?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+- SQL
+- PL/SQL
+- Database Design
+- ER Modeling
+- Normalization
+- Stored Procedures
+- Triggers
+- Views
 
 ### 🤖 AI / Machine Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal%20AI-7C3AED?style=for-the-badge"/>
-</p>
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Multimodal AI
+- Explainable AI
+- Model Evaluation
+- Data Preprocessing
 
-### ☁️ Cloud / DevOps — Learning
+### 🔧 Development Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
 </p>
 
 ---
 
-# 📚 Academic & Research Work
+## 📚 Currently Learning
 
-### 🧠 Multimodal Speech-Text Analysis for Depression Screening
+> These are technologies I'm actively learning and improving — not claiming advanced/professional expertise yet.
 
-Research work focused on **multimodal machine learning for depression screening** using speech and text data. The work explored audio feature extraction, transformer-based text representation, CNN-based audio representation, attention-based multimodal fusion, classical machine learning classifiers, and **Explainable AI using SHAP and LIME**.
-
-### 🌱 Digital Marketplace Framework for Carbon-Credit Participation
-
-Academic research exploring a **digital marketplace framework for smallholder farmers in Bangladesh**, focusing on carbon-credit awareness, estimation, verification, buyer connection, and transparent payment mechanisms.
-
----
-
-# 🎓 Academic Projects
-
-### 🎮 Greedy Knights
-
-A **C# Windows Forms 2D game** developed as an academic software engineering project, featuring AI opponents, multiplayer gameplay, scoring, coin collection, and object-oriented programming concepts.
-
-### 🚇 Metro Rail Management System
-
-A database engineering project covering **ER modeling, normalization, relational database design, SQL, PL/SQL procedures, triggers, views, and reporting** for a metro rail management scenario.
-
-### 🏫 Coaching Center Management System
-
-A relational database project designed to manage **students, courses, payments, attendance, examinations, and related academic records**, with emphasis on structured database design and SQL implementation.
-
-### 🌐 Full-Stack Web Projects
-
-A collection of web development projects built while strengthening practical skills in **React, Next.js, Node.js, REST APIs, MongoDB, TypeScript, Tailwind CSS, authentication, and modern frontend development**.
+| Area | Technologies / Topics |
+|---|---|
+| 🌐 Full-Stack | MERN Stack, Next.js, TypeScript |
+| ⚙️ Backend | Node.js, Express, REST APIs |
+| 🗄️ Database | MongoDB, SQL, Oracle, PL/SQL |
+| 🤖 AI/ML | Machine Learning, Deep Learning, NLP |
+| 🐳 DevOps | Docker, CI/CD fundamentals |
+| ☁️ Cloud | AWS & Azure fundamentals |
+| 🏗️ Software Engineering | System Design, Architecture, Design Patterns |
+| 🔬 Research | Multimodal AI & Explainable AI |
 
 ---
 
-# 📊 GitHub Analytics
+# 🔬 Research & Academic Work
 
-<div align="center">
+## 🧠 Multimodal Speech-Text Analysis with Explainable AI for Depression Screening
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github"/>
+Academic research focused on multimodal machine learning for depression screening using speech and text information.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+### Key Areas
+- Speech feature extraction
+- MFCC-based audio representation
+- CNN-based audio encoding
+- Transformer/BERT-based text representation
+- Attention-based multimodal fusion
+- Classical machine learning classifiers
+- SHAP & LIME for explainability
+- SMOTE and class-imbalance handling
+- Model evaluation and statistical analysis
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=818cf8&line=818cf8&point=f8fafc&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-
-</div>
+**Research Area:** Multimodal AI • Machine Learning • NLP • Speech Processing • Explainable AI
 
 ---
 
-# 🎯 Current Learning Roadmap
+## 🌱 Digital Marketplace Framework for Carbon-Credit Participation
 
-| Area                       | Focus                                         |
-| :------------------------- | :-------------------------------------------- |
-| **Full-Stack Development** | MERN, Next.js, TypeScript                     |
-| **Backend Engineering**    | Node.js, Express.js, REST APIs                |
-| **Database Engineering**   | MongoDB, SQL, Oracle, PL/SQL                  |
-| **Machine Learning**       | Data Processing, Model Building & Evaluation  |
-| **AI Research**            | Multimodal AI & Explainable AI                |
-| **DevOps**                 | Docker, CI/CD & Deployment                    |
-| **Cloud**                  | AWS & Azure Fundamentals                      |
-| **Software Engineering**   | Architecture, Design Patterns & System Design |
+Research project proposing a digital marketplace framework to improve carbon-credit awareness and participation among smallholder farmers in Bangladesh.
+
+### Framework Components
+- Farmer awareness
+- Carbon-credit estimation
+- Buyer connection
+- Verification
+- Transparent payment
+- Intermediary support
+
+**Research Area:** Digital Marketplace • Sustainability • FinTech/AgriTech • Social Impact
+
+---
+
+# 🚀 Academic Projects
+
+## ♟️ Greedy Knights
+
+A 2D strategy game developed using **C# and Windows Forms**.
+
+### Highlights
+- AI opponents
+- Multiplayer gameplay
+- Scoring system
+- Coin/reward mechanics
+- Object-Oriented Programming
+- Game logic and event handling
+
+**Tech:** C# • .NET • Windows Forms • OOP
+
+---
+
+## 🚇 Metro Rail Management System
+
+A database-driven management system designed around metro rail operations.
+
+### Highlights
+- ER modeling
+- Relational database design
+- Normalization
+- SQL queries
+- PL/SQL procedures
+- Triggers
+- Views
+- Reporting
+
+**Tech:** Oracle • SQL • PL/SQL • Database Design
+
+---
+
+## 🏫 Coaching Center Management System
+
+A relational database system designed to manage coaching-center operations.
+
+### Features
+- Student management
+- Course management
+- Teacher information
+- Payments
+- Attendance
+- Examination records
+- Database relationships
+
+**Tech:** SQL • Oracle • Database Management
+
+---
+
+## 🌐 Full-Stack Web Projects
+
+Built multiple academic and personal web projects using modern frontend and backend technologies.
+
+### Technologies Used
+
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Tailwind CSS
+- Authentication
+- Git & GitHub
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=talhatalukdar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talhatalukdar&layout=compact&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhatalukdar&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhatalukdar&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 💼 Prepare for Software Engineering internships
+- 🌐 Build production-quality full-stack applications
+- 🧠 Strengthen Data Structures & Algorithms
+- 🏗️ Improve backend architecture and system design
+- 🗄️ Become stronger in database engineering
+- 🤖 Continue AI/ML research
+- 🐳 Learn Docker and deployment workflows
+- ☁️ Build fundamentals in AWS/Azure
+- 📦 Improve Git/GitHub and collaborative development
+- 🚀 Build and deploy more real-world projects
 
 ---
 
 # 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/YOUR_FACEBOOK">
-<img src="https://img.icons8.com/color/48/facebook-new.png"/>
+<a href="https://github.com/talhatalukdar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/talha-talukdar-070193291">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<strong>Open to Software Engineering Internships, Full-Stack Development Opportunities, Research Collaboration & Open-Source Contributions.</strong>
+<a href="mailto:talha76551@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
 
-### 💻 Build • Learn • Research • Improve
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,45:312e81,75:111827,100:0b1120&height=140&section=footer"/>
-
-<!--
-Profile information:
-Location: Dhaka, Bangladesh
-Email: YOUR_EMAIL
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:312e81&height=100&section=footer"/>
+</p>
