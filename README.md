@@ -1,5 +1,15 @@
 <div align="center">
+<h2 align="center">
+  Hi, I'm <span style="color:#5EEAD4;">Talha Talukdar</span> 👋
+</h2>
 
+<p align="center">
+  <i>Computer Science Student · Software Engineering · Full-Stack Development</i>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 <img src="./header.svg" width="100%" alt="Talha Talukdar banner"/>
 
 <br/>
