@@ -5,17 +5,11 @@
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="right">
-<sub><b>Hi, I'm</b></sub>
-</td>
-<td width="12"></td>
-<td align="left">
-<h1 style="margin:0;"><strong>TALHA TALUKDAR</strong></h1>
-</td>
-</tr>
-</table>
+<div align="left">
+  <small><b>Hi, I'm</b></small>
+</div>
+
+<h1 align="center"><strong>TALHA TALUKDAR</strong></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 
@@ -34,15 +28,13 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-<br/>
+
 
 <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Dhaka, Bangladesh"/>
 
 </div>
 
 <br/>
-
-
 
 
 
