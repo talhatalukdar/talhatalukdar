@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%E2%80%94+MERN+Stack;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP+Research;Open+to+Software+Engineering+Internships;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhatalukdar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-talukdar-070193291)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha76551@gmail.com)
@@ -102,7 +106,7 @@ A classic arcade-style game built in C++ using OpenGL to practice 2D graphics pr
 - Frame-based rendering loop built directly with OpenGL primitives
 
 **Metro Rail Management System** · *Advanced Database course project*
-A relational database engineering project built in Oracle.
+A relational database engineering project built in Oracle, delivered with a web-based interface for interacting with the underlying database.
 - ER modeling and schema normalization for a metro rail operations scenario
 - SQL and PL/SQL procedures for core business logic
 - Triggers and views for data integrity and simplified querying
@@ -110,10 +114,10 @@ A relational database engineering project built in Oracle.
 
 **Coaching Center Management System** · *Database course project*
 A database-driven system for managing a coaching center's daily operations.
+- ER modeling and a normalized relational schema designed to avoid data redundancy
 - Student, course, and teacher information management
 - Payment and attendance tracking
 - Examination records management
-- Normalized relational schema designed to avoid data redundancy
 
 ---
 
