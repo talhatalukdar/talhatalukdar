@@ -30,27 +30,27 @@ I'm currently preparing for software engineering and full-stack development inte
 ## Technical Skills
 
 **Programming**
-<p><img src="https://skillicons.dev/icons?i=cpp,java,python,cs,js,ts" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,cs,js,ts" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /></p>
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
 **Database**
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48"/>
 </p>
 
 **AI / Machine Learning**
-<p><img src="https://skillicons.dev/icons?i=python,pytorch" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch" /></p>
 
-*Academic/research work in this area: NLP, deep learning, speech processing, multimodal fusion, explainable AI (SHAP, LIME), CNNs, and transformer-based text representation (BERT).*
+<p align="center"><i>Academic/research work in this area: NLP, deep learning, speech processing, multimodal fusion, explainable AI (SHAP, LIME), CNNs, and transformer-based text representation (BERT).</i></p>
 
 **Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" /></p>
 
 ---
 
@@ -58,7 +58,7 @@ I'm currently preparing for software engineering and full-stack development inte
 
 I'm actively building foundations in the following, and don't yet claim production experience with them:
 
-<p><img src="https://skillicons.dev/icons?i=docker,aws,azure" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,aws,azure" /></p>
 
 - CI/CD pipelines and modern deployment workflows
 - Cloud fundamentals (AWS & Azure)
@@ -74,18 +74,46 @@ Academic research project exploring depression screening by fusing speech and te
 **A Digital Marketplace Framework for Carbon-Credit Awareness and Participation Among Smallholder Farmers in Bangladesh**
 Conceptual research framework proposing how a digital marketplace could improve carbon-credit awareness and participation among smallholder farmers. Covers awareness building, carbon-credit estimation, buyer connection, verification, transparent payment, and intermediary support, grounded in literature review and qualitative field interviews with farmers.
 
+**IoT and Machine Learning-Based Smart Irrigation System with Autonomous and Manual Control for Cost-Effective Precision Agriculture in Bangladesh**
+Research study proposing an IoT-driven irrigation system that combines low-cost sensor data (soil moisture, temperature, and environmental conditions) with machine learning-based prediction to automate irrigation decisions, while retaining a manual override for farmer control. Aimed at improving water-use efficiency and making precision agriculture practical and affordable for the Bangladeshi farming context.
+
 ---
 
 ## Selected Academic Projects
 
-**Greedy Knights**
-A 2D strategy game built in C# with Windows Forms, featuring AI opponents, multiplayer gameplay, a scoring/coin system, and event-driven game logic — built around core object-oriented design principles.
+**Greedy Knights** · *C# course project*
+A 2D strategy game built in C# with Windows Forms.
+- AI-controlled opponents alongside multiplayer gameplay
+- Coin/reward collection and a live scoring system
+- Event-driven game loop and state handling
+- Structured around core object-oriented design principles (encapsulation, class hierarchies for game entities)
 
-**Metro Rail Management System**
-A relational database engineering project in Oracle: ER modeling, normalization, SQL and PL/SQL procedures, triggers, views, and reporting for a metro rail operations scenario.
+**Hotel Management System** · *Java course project*
+A Java-based application for handling core hotel operations, built around object-oriented design.
+- Room booking and reservation handling
+- Check-in / check-out and room availability tracking
+- Guest record management
+- Billing and invoice generation logic
 
-**Coaching Center Management System**
-A database-driven system for managing students, courses, teachers, payments, attendance, and examination records, with a normalized relational schema.
+**Brick Breaker Game** · *Computer Graphics course project*
+A classic arcade-style game built in C++ using OpenGL to practice 2D graphics programming.
+- Real-time paddle and ball physics with collision detection
+- Brick layout rendering and level/score progression
+- Frame-based rendering loop built directly with OpenGL primitives
+
+**Metro Rail Management System** · *Advanced Database course project*
+A relational database engineering project built in Oracle.
+- ER modeling and schema normalization for a metro rail operations scenario
+- SQL and PL/SQL procedures for core business logic
+- Triggers and views for data integrity and simplified querying
+- Reporting queries for operational data
+
+**Coaching Center Management System** · *Database course project*
+A database-driven system for managing a coaching center's daily operations.
+- Student, course, and teacher information management
+- Payment and attendance tracking
+- Examination records management
+- Normalized relational schema designed to avoid data redundancy
 
 ---
 
