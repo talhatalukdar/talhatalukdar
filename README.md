@@ -5,9 +5,15 @@
 
 <br/><br/>
 
-<sub>Hi, I'm</sub>
+<div align="left">
+  <sub>Hi, I'm</sub>
+</div>
 
-<h1><strong>TALHA TALUKDAR</strong></h1>
+<h1 align="center">
+  <strong>TALHA TALUKDAR</strong>
+</h1>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 
@@ -19,12 +25,14 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4)
+<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Location: Dhaka, Bangladesh"/>
 
 </div>
 
 <br/>
-```
+
+
+
 
 
 ## About Me
