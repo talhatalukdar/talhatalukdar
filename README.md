@@ -3,33 +3,45 @@
 
 <img src="./header.svg" width="100%" alt="Talha Talukdar banner"/>
 
-<br/><br/>
+<br/>
 
-<div align="left">
-  <sub>Hi, I'm</sub>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right">
+<sub><b>Hi, I'm</b></sub>
+</td>
+<td width="12"></td>
+<td align="left">
+<h1 style="margin:0;"><strong>TALHA TALUKDAR</strong></h1>
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/talhatalukdar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/talha-talukdar-070193291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:talha76551@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/talha.jubayer.30574/directory_personal_details">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Dhaka, Bangladesh"/>
+
 </div>
 
-<h1 align="center">
-  <strong>TALHA TALUKDAR</strong>
-</h1>
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhatalukdar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-talukdar-070193291)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha76551@gmail.com)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Location: Dhaka, Bangladesh"/>
-
-</div>
-
-<br/>
 
 
 
